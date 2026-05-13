@@ -1,0 +1,22 @@
+# Node
+node_modules/
+package-lock.json
+
+# Gradle build (raíz - archivos originales del desarrollo)
+.gradle/
+app/build/
+build/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Template build outputs (no subir builds del template)
+template/.gradle/
+template/app/build/
+template/build/

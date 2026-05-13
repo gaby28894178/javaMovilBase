@@ -1,0 +1,16 @@
+{
+  "name": "java-movil-base",
+  "version": "1.0.0",
+  "description": "Instalador base para proyectos Android/Java con Hola Mundo listo para correr en emulador",
+  "main": "bin/cli.js",
+  "bin": {
+    "java-movil-base": "bin/cli.js"
+  },
+  "dependencies": {
+    "fs-extra": "^11.0.0",
+    "kleur": "^4.1.5"
+  },
+  "keywords": ["android", "java", "template", "mobile", "base"],
+  "author": "gaby28894178",
+  "license": "MIT"
+}
